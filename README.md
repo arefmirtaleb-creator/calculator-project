@@ -19,7 +19,7 @@ It can be used as a simple portfolio project for showcasing Python fundamentals.
 - Division
 - User-friendly command-line interaction
 - Basic input validation
-- Division by zero handling
+- Division by zero handling.
 
 ## Technologies Used
 - Python 3

@@ -30,7 +30,7 @@ class CalculatorApp:
             ".", "0", "C", "+",
             "="
         ]
-        # Initialize buttons in the grid
+        # Initialize buttons in the grid.
         row , col = 1 , 0
         for button_text in buttons:
             if button_text == "=":
